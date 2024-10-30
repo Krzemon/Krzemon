@@ -3,6 +3,7 @@
 - C++
 - Python
 - Java
+- SQL
 
 ## 💡 Passionate about solving problems with code
 
