@@ -1,9 +1,8 @@
 # Hi There ^^
 ## I’m constantly learning and exploring new technologies, currently focusing on:
 - C++
-- Python
 - Java
-- SQL
+- ML
 
 ## 💡 Passionate about solving problems with code
 
