@@ -4,4 +4,4 @@ I’m a dual engineering graduate in Applied Computer Science and Technical Phys
 
 ### Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,matlab,postgres,linux,git,fastapi,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,matlab,postgres,fastapi,html,css,js,git,linux,latex)](https://skillicons.dev)
